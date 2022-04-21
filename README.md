@@ -1,2 +1,3 @@
-# Curso-git-Nazaret-2022
-Curso introducción git 
+## Descripción
+
+Curso introducción git Nazaret 2022
